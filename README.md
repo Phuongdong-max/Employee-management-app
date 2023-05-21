@@ -1,11 +1,47 @@
-Introduction to my Employee Management Application
+# Employee Management Application
 
-My Employee Management Application is a C# WinForms application designed to assist in the efficient management of employees. The application is displayed in the Japanese language and offers a user-friendly interface.
+The Employee Management Application is a C# WinForms application developed to efficiently manage employee records. The application is designed to be displayed in Japanese language. 
 
-Upon launching the application, users are presented with a login form, where the default account is set as "admin" with the password "admin". After successful login, users are directed to the main screen, which includes a table displaying employee information and a search feature (currently under development).
+## Features
 
-The menu bar at the top provides various options for managing employee data. Users can add, delete, and update employee records using the corresponding options. Additionally, the application offers a ToolStripMenu with functionality to manage user login credentials, as well as the ability to export statistical data to Excel format.
+- **User Login**: Upon launching the application, a login form is displayed where users can enter their credentials. The default login is set to the username "admin" and password "admin".
 
-With its intuitive user interface and essential features, the Employee Management Application aims to streamline the process of managing employee information and improve overall organizational efficiency.
+- **Main Screen**: After successful login, users are presented with the main screen that contains a table displaying employee information and a search feature (currently under development).
 
-Please note that this introduction provides a brief overview of the application's key features. For more detailed information and instructions, please refer to the application's documentation or user guide.
+- **Employee Management**: Users can perform various operations on employee records such as adding, deleting, and updating employee information. The options are available in the menu bar.
+
+- **User Management**: The application provides a ToolStripMenu for managing user login credentials, allowing administrators to add, edit, and delete user accounts.
+
+- **Export to Excel**: The application also offers the ability to export statistical data to Excel format using the ToolStripMenu option.
+
+## Getting Started
+
+To get started with the Employee Management Application, follow these steps:
+
+1. Download the latest release of the application from the [Releases](https://github.com/yourusername/yourrepository/releases) section.
+
+2. Extract the contents of the downloaded `demo.zip` file to a desired location on your computer.
+
+3. Run the `EmployeeManagement.exe` file to launch the application.
+
+4. Use the default login credentials (username: admin, password: admin) to log in to the application.
+
+## Requirements
+
+The Employee Management Application requires the following to be installed on your system:
+
+- Windows operating system
+- .NET Framework (version XYZ or higher)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contributions
+
+Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
+
+## Contact
+
+For any inquiries or support, please contact us at [phuongdongpo1@gmail.com](mailto:phuongdongpo1@gmail.com).
+
