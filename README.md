@@ -31,7 +31,7 @@ To get started with the Employee Management Application, follow these steps:
 The Employee Management Application requires the following to be installed on your system:
 
 - Windows operating system
-- .NET Framework (version XYZ or higher)
+- .NET Framework (version 3.0.0 or higher)
 
 ## License
 
